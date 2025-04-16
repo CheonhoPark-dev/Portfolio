@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "index.html",
+      "src": "*.html",
       "use": "@vercel/static"
     },
     {
@@ -14,6 +14,14 @@
     {
       "src": "/resources/(.*)",
       "dest": "/resources/$1"
+    },
+    {
+      "src": "/index_en.html",
+      "dest": "/index_en.html"
+    },
+    {
+      "src": "/index.html",
+      "dest": "/index.html"
     },
     {
       "src": "/(.*)",
