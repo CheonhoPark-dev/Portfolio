@@ -66,10 +66,6 @@
 - 이메일: hiroizora3011@gmail.com
 - GitHub: [CheonhoPark-dev](https://github.com/CheonhoPark-dev)
 
-## 📄 라이센스
-
-이 프로젝트는 MIT 라이센스를 따릅니다. 자세한 내용은 LICENSE 파일을 참조하세요.
-
 ---
 
 <div align="center">
